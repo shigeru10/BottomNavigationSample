@@ -1,0 +1,27 @@
+
+/local.properties
+.DS_Store
+/captures
+.externalNativeBuild
+
+# for gradle, IDEA
+.gradle
+gradle/
+build/
+*.iml
+!.idea/runConfigurations/*
+.idea/*.xml
+.idea/.name
+.idea/copyright/
+.idea/libraries/
+.idea/scopes/
+.idea/inspectionProfiles/
+
+# for Signing
+gradle.properties
+
+# .DS_Store
+.DS_Store
+
+captures/
+projectFilesBackup/
